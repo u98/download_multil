@@ -1,0 +1,16 @@
+{
+  "name": "uchinka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "fs-extra": "^7.0.1",
+    "jsdom": "^13.0.0"
+  }
+}

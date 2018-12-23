@@ -1,0 +1,1604 @@
+{
+	"data": 
+	[
+		{
+            "id": 3805,
+            "newS_TITLE": "Yaris G CVT",
+            "newS_DESC": "Số tự động vô cấp",
+            "newS_PUBLISHDATE": "2018-07-25T11:18:06.903Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "yaris-g-cvt",
+            "newS_ORDER": 99,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "kmisun.png",
+            "newS_IMAGE3": "4modfh.png",
+            "newS_PRICE1": 650000000,
+            "caT_ID": 800,
+            "caT_SEO_URL": "yaris",
+            "caT_ORDER": 99,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 45,
+                    "decL_CODE": "Hatchback",
+                    "decL_NAME": "Hatchback",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 99
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3951,
+            "newS_TITLE": "Wigo G 1.2AT",
+            "newS_DESC": "Số tự động 4 cấp",
+            "newS_PUBLISHDATE": "2018-09-17T11:05:44.81Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "wigo-g-1-2at",
+            "newS_ORDER": 98,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "zmmo3m.png",
+            "newS_IMAGE3": "0y4ctv.png",
+            "newS_PRICE1": 405000000,
+            "caT_ID": 888,
+            "caT_SEO_URL": "wigo",
+            "caT_ORDER": 99,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 45,
+                    "decL_CODE": "Hatchback",
+                    "decL_NAME": "Hatchback",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 99
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3953,
+            "newS_TITLE": "Wigo G 1.2 MT",
+            "newS_DESC": "Số sàn 5 cấp",
+            "newS_PUBLISHDATE": "2018-09-17T15:02:31.997Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "wigo-g-1-2-mt",
+            "newS_ORDER": 97,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "swzbdm.png",
+            "newS_IMAGE3": "3hbkcy.png",
+            "newS_PRICE1": 345000000,
+            "caT_ID": 888,
+            "caT_SEO_URL": "wigo",
+            "caT_ORDER": 99,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 45,
+                    "decL_CODE": "Hatchback",
+                    "decL_NAME": "Hatchback",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 99
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3959,
+            "newS_TITLE": "Avanza 1.5AT",
+            "newS_DESC": "Số tự động 4 cấp",
+            "newS_PUBLISHDATE": "2018-09-19T10:34:07.113Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "avanza-1-5at",
+            "newS_ORDER": 96,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "g4snk2.png",
+            "newS_IMAGE3": "2wjtim.png",
+            "newS_PRICE1": 593000000,
+            "caT_ID": 889,
+            "caT_SEO_URL": "avanza",
+            "caT_ORDER": 88,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3960,
+            "newS_TITLE": "Avanza 1.3MT",
+            "newS_DESC": "Số sàn 5 cấp",
+            "newS_PUBLISHDATE": "2018-09-19T10:46:56.953Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "avanza-1-3mt",
+            "newS_ORDER": 95,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "apuuxi.png",
+            "newS_IMAGE3": "jk1qnz.png",
+            "newS_PRICE1": 537000000,
+            "caT_ID": 889,
+            "caT_SEO_URL": "avanza",
+            "caT_ORDER": 88,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3961,
+            "newS_TITLE": "Rush S 1.5AT",
+            "newS_DESC": "Số tự động 4 cấp",
+            "newS_PUBLISHDATE": "2018-09-19T13:25:50.067Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "rush-s-1-5at",
+            "newS_ORDER": 94,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "4dyz0o.png",
+            "newS_IMAGE3": "4qvufr.png",
+            "newS_PRICE1": 668000000,
+            "caT_ID": 890,
+            "caT_SEO_URL": "rush",
+            "caT_ORDER": 90,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3804,
+            "newS_TITLE": "Vios 1.5E (MT)",
+            "newS_DESC": "Số tay 5 cấp\r\nĐộng cơ xăng dung tích 1.496 cm3",
+            "newS_PUBLISHDATE": "2018-07-25T10:33:04.59Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "vios-1-5e-mt",
+            "newS_ORDER": 88,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "cnkjgm.png",
+            "newS_IMAGE3": "qrbm0p.png",
+            "newS_PRICE1": 531000000,
+            "caT_ID": 801,
+            "caT_SEO_URL": "vios",
+            "caT_ORDER": 96,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3803,
+            "newS_TITLE": "Vios 1.5G (CVT)",
+            "newS_DESC": "Số tự động vô cấp\r\nĐộng cơ xăng dung tích 1.496 cm3",
+            "newS_PUBLISHDATE": "2018-07-25T10:32:31.607Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "vios-1-5g-cvt",
+            "newS_ORDER": 87,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "ycuso0.png",
+            "newS_IMAGE3": "qlt5rs.png",
+            "newS_PRICE1": 606000000,
+            "caT_ID": 801,
+            "caT_SEO_URL": "vios",
+            "caT_ORDER": 96,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3802,
+            "newS_TITLE": "Vios 1.5E (CVT)",
+            "newS_DESC": "Số tự động vô cấp\r\nĐộng cơ xăng dung tích 1.496 cm3",
+            "newS_PUBLISHDATE": "2018-07-25T10:31:13.017Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "vios-1-5e-cvt",
+            "newS_ORDER": 86,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "vzc4yb.png",
+            "newS_IMAGE3": "qzgoyt.png",
+            "newS_PRICE1": 569000000,
+            "caT_ID": 801,
+            "caT_SEO_URL": "vios",
+            "caT_ORDER": 96,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3133,
+            "newS_TITLE": "Corolla Altis 2.0V Sport (CVT)",
+            "newS_DESC": "Số tự động vô cấp \r\nĐộng cơ xăng dung tích 1.987 cm3",
+            "newS_PUBLISHDATE": "2017-09-22T15:17:17.377Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "corolla-altis-2-0v-sport-cvt",
+            "newS_ORDER": 79,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "1t3znp.png",
+            "newS_IMAGE3": "alonzc.png",
+            "newS_PRICE1": 932000000,
+            "caT_ID": 821,
+            "caT_SEO_URL": "corolla-altis",
+            "caT_ORDER": 95,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3131,
+            "newS_TITLE": "Corolla Altis 1.8E (CVT)",
+            "newS_DESC": "Số tự động vô cấp \r\nĐộng cơ xăng dung tích 1.798 cm3",
+            "newS_PUBLISHDATE": "2017-09-22T11:08:39.91Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "corolla-altis-1-8e-cvt",
+            "newS_ORDER": 78,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "rvj1lm.png",
+            "newS_IMAGE3": "q1d13e.png",
+            "newS_PRICE1": 733000000,
+            "caT_ID": 821,
+            "caT_SEO_URL": "corolla-altis",
+            "caT_ORDER": 95,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1865,
+            "newS_TITLE": "Corolla Altis 1.8G (CVT)",
+            "newS_DESC": "Số tự động vô cấp\r\nĐộng cơ xăng dung tích 1.798 cm3",
+            "newS_PUBLISHDATE": "2016-11-14T16:25:20.71Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "corolla-altis-1-8g-cvt",
+            "newS_ORDER": 77,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "gmh0as.png",
+            "newS_IMAGE3": "z5qunh.png",
+            "newS_PRICE1": 791000000,
+            "caT_ID": 821,
+            "caT_SEO_URL": "corolla-altis",
+            "caT_ORDER": 95,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1864,
+            "newS_TITLE": "Corolla Altis 2.0V Luxury (CVT)",
+            "newS_DESC": "Số tự động vô cấp\r\nĐộng cơ xăng dung tích 1.987 cm3",
+            "newS_PUBLISHDATE": "2016-11-14T16:23:33.1Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "corolla-altis-2-0v-luxury-cvt",
+            "newS_ORDER": 76,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "cpet54.png",
+            "newS_IMAGE3": "mcogna.png",
+            "newS_PRICE1": 889000000,
+            "caT_ID": 821,
+            "caT_SEO_URL": "corolla-altis",
+            "caT_ORDER": 95,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1758,
+            "newS_TITLE": "Corolla Altis 1.8E (MT)",
+            "newS_DESC": "Số tay 6 cấp\r\nĐộng cơ xăng dung tích 1.798 cm3",
+            "newS_PUBLISHDATE": "2016-07-20T09:54:06.17Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "corolla-altis-1-8e-mt",
+            "newS_ORDER": 75,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "uaxdpx.png",
+            "newS_IMAGE3": "4cndtu.png",
+            "newS_PRICE1": 697000000,
+            "caT_ID": 821,
+            "caT_SEO_URL": "corolla-altis",
+            "caT_ORDER": 95,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1770,
+            "newS_TITLE": "Camry 2.0E",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 1.998 cm3",
+            "newS_PUBLISHDATE": "2016-10-06T16:48:45.917Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "camry-2-0e",
+            "newS_ORDER": 69,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "nlbdu0.png",
+            "newS_IMAGE3": "2v2go0.png",
+            "newS_PRICE1": 997000000,
+            "caT_ID": 802,
+            "caT_SEO_URL": "camry",
+            "caT_ORDER": 94,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1767,
+            "newS_TITLE": "Camry 2.5G",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 2.494 cm3",
+            "newS_PUBLISHDATE": "2016-09-29T11:27:18.007Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "camry-25g",
+            "newS_ORDER": 68,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "ffxuwo.png",
+            "newS_IMAGE3": "v0ggng.png",
+            "newS_PRICE1": 1161000000,
+            "caT_ID": 802,
+            "caT_SEO_URL": "camry",
+            "caT_ORDER": 94,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1764,
+            "newS_TITLE": "Camry 2.5Q",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 2.494 cm3",
+            "newS_PUBLISHDATE": "2016-09-27T14:51:06.113Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "camry-2-5q",
+            "newS_ORDER": 67,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "qpixkk.png",
+            "newS_IMAGE3": "zs2ufv.png",
+            "newS_PRICE1": 1302000000,
+            "caT_ID": 802,
+            "caT_SEO_URL": "camry",
+            "caT_ORDER": 94,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 44,
+                    "decL_CODE": "Sedan",
+                    "decL_NAME": "Sedan",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 98
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3740,
+            "newS_TITLE": "Fortuner 2.4 4x2 AT",
+            "newS_DESC": "Số tự động 6 cấp/6AT",
+            "newS_PUBLISHDATE": "2018-06-26T01:08:50.027Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "fortuner-2-4-4x2-at",
+            "newS_ORDER": 59,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "1gwy3m.png",
+            "newS_IMAGE3": "qkm51d.png",
+            "newS_PRICE1": 1094000000,
+            "caT_ID": 823,
+            "caT_SEO_URL": "fortuner",
+            "caT_ORDER": 93,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3734,
+            "newS_TITLE": "Fortuner 2.8V 4x4",
+            "newS_DESC": "Số tự động 6 cấp/6AT",
+            "newS_PUBLISHDATE": "2018-06-25T22:25:17.967Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "fortuner-2-8v-4x4",
+            "newS_ORDER": 58,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "pbkgwn.png",
+            "newS_IMAGE3": "u3jzgv.png",
+            "newS_PRICE1": 1354000000,
+            "caT_ID": 823,
+            "caT_SEO_URL": "fortuner",
+            "caT_ORDER": 93,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 2010,
+            "newS_TITLE": "Fortuner 2.4G 4x2 MT",
+            "newS_DESC": "Hộp số tay 6 cấp ",
+            "newS_PUBLISHDATE": "2017-01-10T13:55:27.12Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "fortuner-2-4g-4x2-mt",
+            "newS_ORDER": 57,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "jc2hxv.png",
+            "newS_IMAGE3": "y0ftn2.png",
+            "newS_PRICE1": 1026000000,
+            "caT_ID": 823,
+            "caT_SEO_URL": "fortuner",
+            "caT_ORDER": 93,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1855,
+            "newS_TITLE": "Fortuner 2.7V 4x2",
+            "newS_DESC": " Hộp số tự động 6 cấp",
+            "newS_PUBLISHDATE": "2016-10-18T11:06:38.717Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "fortuner-2-7v-4x2",
+            "newS_ORDER": 55,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "opkqn2.png",
+            "newS_IMAGE3": "oy5myp.png",
+            "newS_PRICE1": 1150000000,
+            "caT_ID": 823,
+            "caT_SEO_URL": "fortuner",
+            "caT_ORDER": 93,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1869,
+            "newS_TITLE": "Land Cruiser VX",
+            "newS_DESC": "Số tự động 6 cấp",
+            "newS_PUBLISHDATE": "2016-11-14T16:43:53.273Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "land-cruiser-vx",
+            "newS_ORDER": 49,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "Land-Cruiser.png",
+            "newS_IMAGE3": "Land-Cruiser_thumb.png",
+            "newS_PRICE1": 3650000000,
+            "caT_ID": 825,
+            "caT_SEO_URL": "land-cruiser",
+            "caT_ORDER": 91,
+            "lDeclare": [
+                {
+                    "id": 42,
+                    "decL_CODE": "8",
+                    "decL_NAME": "8 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1868,
+            "newS_TITLE": "Land Cruiser Prado VX",
+            "newS_DESC": "Số tự động 6 cấp",
+            "newS_PUBLISHDATE": "2016-11-14T16:40:29.037Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "land-cruiser-prado-vx",
+            "newS_ORDER": 48,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "4podxq.png",
+            "newS_IMAGE3": "zorxyr.png",
+            "newS_PRICE1": 2340000000,
+            "caT_ID": 824,
+            "caT_SEO_URL": "land-cruiser-prado",
+            "caT_ORDER": 92,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 46,
+                    "decL_CODE": "SUV",
+                    "decL_NAME": "SUV",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 97
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3201,
+            "newS_TITLE": "Innova Venturer",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 1.998 cm3",
+            "newS_PUBLISHDATE": "2017-11-01T14:53:47.193Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "innova-venturer",
+            "newS_ORDER": 38,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "ldqgej.png",
+            "newS_IMAGE3": "zywiih.png",
+            "newS_PRICE1": 878000000,
+            "caT_ID": 822,
+            "caT_SEO_URL": "innova",
+            "caT_ORDER": 89,
+            "lDeclare": [
+                {
+                    "id": 42,
+                    "decL_CODE": "8",
+                    "decL_NAME": "8 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1867,
+            "newS_TITLE": "Innova 2.0G",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 1.998 cm3",
+            "newS_PUBLISHDATE": "2016-11-14T16:35:55.647Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "innova-20g",
+            "newS_ORDER": 37,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "Innova-2-0G.png",
+            "newS_IMAGE3": "Innova-2-0G_thumb.png",
+            "newS_PRICE1": 847000000,
+            "caT_ID": 822,
+            "caT_SEO_URL": "innova",
+            "caT_ORDER": 89,
+            "lDeclare": [
+                {
+                    "id": 42,
+                    "decL_CODE": "8",
+                    "decL_NAME": "8 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1866,
+            "newS_TITLE": "Innova 2.0E",
+            "newS_DESC": "Số tay 5 cấp\r\nĐộng cơ xăng dung tích 1.998 cm3",
+            "newS_PUBLISHDATE": "2016-11-14T16:34:38.333Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "innova-2-0e",
+            "newS_ORDER": 36,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "Innova-2-0E.png",
+            "newS_IMAGE3": "Innova-2-0E_thumb.png",
+            "newS_PRICE1": 771000000,
+            "caT_ID": 822,
+            "caT_SEO_URL": "innova",
+            "caT_ORDER": 89,
+            "lDeclare": [
+                {
+                    "id": 42,
+                    "decL_CODE": "8",
+                    "decL_NAME": "8 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1768,
+            "newS_TITLE": "Innova 2.0V",
+            "newS_DESC": "Số tự động 6 cấp\r\nĐộng cơ xăng dung tích 1.998 cm3",
+            "newS_PUBLISHDATE": "2016-09-29T13:13:58.87Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "innova-2-0v",
+            "newS_ORDER": 35,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "Innova-2-0V.png",
+            "newS_IMAGE3": "Innova-2-0V_thumb.png",
+            "newS_PRICE1": 971000000,
+            "caT_ID": 822,
+            "caT_SEO_URL": "innova",
+            "caT_ORDER": 89,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 62,
+                    "decL_CODE": "0",
+                    "decL_NAME": "Xe trong nước",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3068,
+            "newS_TITLE": "Alphard luxury",
+            "newS_DESC": "Hộp số tự động 8 cấp",
+            "newS_PUBLISHDATE": "2017-08-28T16:42:14.177Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "alphard-luxury",
+            "newS_ORDER": 29,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "ndtdpz.png",
+            "newS_IMAGE3": "xdkfgk.png",
+            "newS_PRICE1": 4038000000,
+            "caT_ID": 873,
+            "caT_SEO_URL": "alphard-luxury",
+            "caT_ORDER": 91,
+            "lDeclare": [
+                {
+                    "id": 37,
+                    "decL_CODE": "7",
+                    "decL_NAME": "7 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 47,
+                    "decL_CODE": "MPV",
+                    "decL_NAME": "Đa dụng",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 96
+                },
+                {
+                    "id": 40,
+                    "decL_CODE": "xang",
+                    "decL_NAME": "Xăng",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1873,
+            "newS_TITLE": "Hiace Động cơ dầu",
+            "newS_DESC": "Số sàn 5 cấp",
+            "newS_PUBLISHDATE": "2016-11-14T17:04:10.007Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "hiace-dong-co-dau",
+            "newS_ORDER": 28,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "rpvvpw.png",
+            "newS_IMAGE3": "vuqa0g.png",
+            "newS_PRICE1": 999000000,
+            "caT_ID": 827,
+            "caT_SEO_URL": "hiace",
+            "caT_ORDER": 87,
+            "lDeclare": [
+                {
+                    "id": 67,
+                    "decL_CODE": "15",
+                    "decL_NAME": "15 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101
+                },
+                {
+                    "id": 64,
+                    "decL_CODE": "ThuongMai",
+                    "decL_NAME": "Thương mại",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 95
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3742,
+            "newS_TITLE": "Hilux 2.8 G 4x4 AT MLM",
+            "newS_DESC": "Số tự động 6 cấp/6AT",
+            "newS_PUBLISHDATE": "2018-06-26T01:44:12.293Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "hilux-2-8-g-4x4-at-mlm",
+            "newS_ORDER": 19,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "0lywrm.png",
+            "newS_IMAGE3": "myfheb.png",
+            "newS_PRICE1": 878000000,
+            "caT_ID": 826,
+            "caT_SEO_URL": "hilux",
+            "caT_ORDER": 86,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 48,
+                    "decL_CODE": "Pickup",
+                    "decL_NAME": "Bán tải",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 94
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 3741,
+            "newS_TITLE": "Hilux 2.4E 4x2 AT MLM",
+            "newS_DESC": "Số tự động 6 cấp/6AT",
+            "newS_PUBLISHDATE": "2018-06-26T01:24:43.353Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "hilux-2-4e-4x2-at-mlm",
+            "newS_ORDER": 18,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "q5h4yf.png",
+            "newS_IMAGE3": "gk5d0h.png",
+            "newS_PRICE1": 695000000,
+            "caT_ID": 826,
+            "caT_SEO_URL": "hilux",
+            "caT_ORDER": 86,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 48,
+                    "decL_CODE": "Pickup",
+                    "decL_NAME": "Bán tải",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 94
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        },
+        {
+            "id": 1871,
+            "newS_TITLE": "Hilux 2.4G 4x4 MT",
+            "newS_DESC": "Số tay 6 cấp",
+            "newS_PUBLISHDATE": "2016-11-14T17:01:56.787Z",
+            "newS_URL": "",
+            "newS_SEO_URL": "hilux-2-4g-4x4-mt",
+            "newS_ORDER": 16,
+            "newS_TARGET": "_parent",
+            "newS_IMAGE2": "Hilux-2-8G-4x4-MT.png",
+            "newS_IMAGE3": "lkdhri.png",
+            "newS_PRICE1": 793000000,
+            "caT_ID": 826,
+            "caT_SEO_URL": "hilux",
+            "caT_ORDER": 86,
+            "lDeclare": [
+                {
+                    "id": 36,
+                    "decL_CODE": "5",
+                    "decL_NAME": "5 chỗ",
+                    "decL_DESC": "Số chỗ ngồi",
+                    "decL_TYPE": 101,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 48,
+                    "decL_CODE": "Pickup",
+                    "decL_NAME": "Bán tải",
+                    "decL_DESC": "Kiểu dáng",
+                    "decL_TYPE": 102,
+                    "decL_ORDER": 94
+                },
+                {
+                    "id": 41,
+                    "decL_CODE": "dau",
+                    "decL_NAME": "Dầu",
+                    "decL_DESC": "Nhiên liệu",
+                    "decL_TYPE": 103,
+                    "decL_ORDER": 1
+                },
+                {
+                    "id": 63,
+                    "decL_CODE": "1",
+                    "decL_NAME": "Xe nhập khẩu",
+                    "decL_DESC": "Xuất xứ",
+                    "decL_TYPE": 104,
+                    "decL_ORDER": 1
+                }
+            ]
+        }
+	]
+}

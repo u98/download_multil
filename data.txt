@@ -1,0 +1,10 @@
+<ul class="table-of-contents clearfix animated fadeInUpShort delay-250 go">
+                                <li><a href="#sec_dt_01" class="active"><img src="/Content/images/detail_icon_s_menu_01.png"><span class="text-link">Tổng quan</span></a></li>
+                                <li><a href="#sec_dt_03"><img src="/Content/images/detail_icon_s_menu_04.png"><span class="text-link">Thư viện</span></a></li>
+                                <li><a href="#sec_dt_04"><img src="/Content/images/detail_icon_s_menu_02.png"><span class="text-link">Ngoại thất</span></a></li>
+                                <li><a href="#sec_dt_05"><img src="/Content/images/detail_icon_s_menu_03.png"><span class="text-link">Nội thất</span></a></li>
+                                <li><a href="#sec_dt_06"><img src="/Content/images/detail_icon_s_menu_05.png"><span class="text-link">Tính năng</span></a></li>
+                                <li><a href="#sec_dt_09"><img src="/Content/images/detail_icon_s_menu_09.png"><span class="text-link">Phụ kiện</span></a></li>
+                                <li><a href="#sec_dt_07"><img src="/Content/images/detail_icon_s_menu_06.png"><span class="text-link">Thông số kỹ thuật</span></a></li>
+                                    <li><a href="#sec_dt_08"><img src="/Content/images/detail_icon_s_menu_08.png"><span class="text-link">Tải catalogue</span></a></li>
+                            </ul>
